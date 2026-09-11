@@ -9,7 +9,7 @@ print(a << b)  # 5 -> 10 -> 20 -> 40
 print(40 >> b)  # 5
 print(~a)  # 1111 1010 (-6)
 
-## 멤버십 연산자 (in, not in)
+## 멤버십 연산자 (in, not in).
 print("a" in "apple")
 print(3 in [1, 2, 3])
 

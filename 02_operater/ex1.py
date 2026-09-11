@@ -10,7 +10,7 @@ print(a * b)  # 곱셈
 print(a / b)  # float 나눗셈
 print(a // b)  # 몫
 print(a % b)  # 나머지
-print(a**b)  # 거듭제곱
+print(a**b)  # 거듭제곱.
 
 # 복합 대입 연산자
 a = 0
